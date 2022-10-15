@@ -45,5 +45,7 @@
       "curly": ["error", "all"],
       // Using 'alert()' in code gives warning:
       "no-alert": "off"
+      // Eliminate error for function parameter/argument reassignment:
+      // "no-param-reassign": "off"
     }
 }
